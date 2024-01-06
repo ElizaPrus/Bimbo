@@ -1,0 +1,426 @@
+  @media screen and (min-width: 1920px) {
+  .simple-form label, .order-table td, .order-table th {
+    font-size: 10px;
+    line-height: 150%;
+  }
+}
+@media screen and (min-width: 1280px) and (max-width: 1920px) {
+  .simple-form label, .order-table td, .order-table th {
+    font-size: 10px;
+    line-height: 150%;
+  }
+}
+@media screen and (min-width: 1023px) and (max-width: 1280px) {
+  .simple-form label, .order-table td, .order-table th {
+    font-size: 10px;
+    line-height: 150%;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .simple-form label, .order-table td, .order-table th {
+    font-size: 10px;
+    line-height: 150%;
+  }
+}
+
+.delete-address a {
+  font-family: sweet-sans-pro, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 108%;
+  height: 40px;  
+  font-weight: 500;
+  padding: 8px 16px;
+  border: 2px solid transparent;
+  transition: all 150ms linear, width 0ms;
+  cursor: pointer;
+ 
+  -webkit-appearance: none;
+  border-radius: 0;
+}
+.delete-address a svg {
+  transition: all 150ms linear;
+}
+html[dir=rtl] .delete-address a svg, .delete-address html[dir=rtl] a svg {
+  transform: scale(-1);
+}
+
+.delete-address a {
+  font-size: 14px;
+  height: 40px;
+  line-height: 108%;
+  border: 1px solid transparent;
+  padding: 8px 16px;
+  text-transform: uppercase;
+}
+.delete-address a .symbol {
+  top: 7px !important;
+}
+
+.delete-address a {
+  outline: none !important;
+  border-color: rgba(var(--color-body-txt), 1);
+  color: rgba(var(--color-body-txt), 1);
+}
+.delete-address a svg * {
+  fill: rgba(var(--color-body-txt), 1);
+  transition: all 150ms linear;
+}
+.no-touch .delete-address a:not(.button--outline-hover):hover, .delete-address .no-touch a:not(.button--outline-hover):hover {
+  border-color: rgba(var(--color-body-accent), 1);
+  color: rgba(var(--color-body-accent), 1);
+}
+.no-touch .delete-address a:not(.button--outline-hover):hover svg *, .delete-address .no-touch a:not(.button--outline-hover):hover svg * {
+  fill: rgba(var(--color-body-accent), 1);
+}
+.delete-address a.disabled {
+  opacity: 0.66;
+  border-color: rgba(var(--color-body-txt), 0.16);
+}
+.sidebar-element .delete-address a, .delete-address .sidebar-element a {
+  border-color: rgba(var(--color-sidebar-txt), 1) !important;
+  color: rgba(var(--color-sidebar-txt), 1) !important;
+}
+.sidebar-element .delete-address a svg *, .delete-address .sidebar-element a svg * {
+  fill: rgba(var(--color-sidebar-txt), 1) !important;
+}
+.no-touch .sidebar-element .delete-address a:not(.button--outline-hover):hover, .delete-address .no-touch .sidebar-element a:not(.button--outline-hover):hover {
+  border-color: rgba(var(--color-sidebar-accent), 1) !important;
+  color: rgba(var(--color-sidebar-accent), 1) !important;
+}
+.no-touch .sidebar-element .delete-address a:not(.button--outline-hover):hover svg *, .delete-address .no-touch .sidebar-element a:not(.button--outline-hover):hover svg * {
+  fill: rgba(var(--color-sidebar-accent), 1) !important;
+}
+.sidebar-element .delete-address a.disabled, .delete-address .sidebar-element a.disabled {
+  border-color: rgba(var(--color-sidebar-txt), 0.16);
+}
+
+.login-actions {
+  clear: both;
+  display: grid;
+  
+  align-items: center;
+  padding-top: 30px;
+}
+.login-actions a:hover {
+  color: rgba(var(--color-body-accent), 1);
+}
+@media screen and (max-width: 648px) {
+  .login-actions {
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 0;
+  }
+  .login-actions > div {
+    width: 100%;
+    text-align: center !important;
+    margin-top: 1em;
+  }
+  .login-actions .button--wide {
+    width: 100%;
+  }
+}
+
+.page-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: var(--compact-header-padding);
+   }
+@media screen and (min-width: 770px)  {
+.page-title .button{
+      padding-right: calc(var(--horizontal-padding)* 3);
+}}
+@media screen and (max-width: 480px)  {
+.page-title .button{
+padding: 0px;
+}}
+.page-title .h0 {
+  margin-bottom: 10px;
+}
+.page-title .button {
+  margin-bottom: 5px;
+}
+
+.order-table {
+  width: 100%;
+  border: none;
+}
+.order-table thead, .order-table tr {
+  border: none;
+}
+.order-table td, .order-table th {
+  border: none !important;
+  opacity: 0.66;
+  min-height: 20px;
+  margin-bottom: 8px;
+}
+html[dir=rtl] .order-table td, html[dir=rtl] .order-table th {
+  text-align: right;
+}
+html[dir=ltr] .order-table td, html[dir=ltr] .order-table th {
+  text-align: left;
+}
+html[dir=rtl] .order-table td:first-child, html[dir=rtl] .order-table th:first-child {
+  padding-right: 0;
+}
+html[dir=ltr] .order-table td:first-child, html[dir=ltr] .order-table th:first-child {
+  padding-left: 0;
+}
+.order-table th {
+  text-transform: uppercase;
+  padding-bottom: 15px;
+  font-weight: var(--font-weight-body-bold);
+  opacity: 0.66;
+  max-width: 120px;
+}
+.order-table tbody td:first-child, .order-table tbody th:first-child {
+  opacity: 1;
+  font-weight: var(--font-weight-body-bold);
+}
+.order-table tfoot tr:first-child td, .order-table tfoot tr:first-child th, .order-table tfoot tr:last-child td, .order-table tfoot tr:last-child th {
+  padding-top: 10px;
+}
+.order-table.o-order tfoot tr:first-child td, .order-table.o-order tfoot tr:first-child th {
+  padding-top: 40px;
+}
+.order-table tbody tr {
+  display: block;
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+  width: 100%;
+}
+.order-table tbody tr:last-child {
+  margin-bottom: 0;
+}
+.order-table tbody td, .order-table tbody th {
+  position: relative;
+  width: 100%;
+  display: block;
+  padding: 0 !important;
+  text-align: right !important;
+}
+html[dir=rtl] .order-table tbody td, html[dir=rtl] .order-table tbody th {
+  padding-right: calc(50% + 14px) !important;
+}
+.order-table tbody td span.label, .order-table tbody th span.label {
+  position: absolute;
+  top: 7px;
+  width: 45%;
+  white-space: nowrap;
+  display: block;
+  text-transform: uppercase;
+}
+html[dir=rtl] .order-table tbody td span.label, html[dir=rtl] .order-table tbody th span.label {
+  right: 0;
+}
+html[dir=ltr] .order-table tbody td span.label, html[dir=ltr] .order-table tbody th span.label {
+  left: 0;
+}
+html[dir=rtl] .order-table tbody td span.label, html[dir=rtl] .order-table tbody th span.label {
+  text-align: right;
+}
+html[dir=ltr] .order-table tbody td span.label, html[dir=ltr] .order-table tbody th span.label {
+  text-align: left;
+}
+.template-customers-order .order-table tfoot .text-right {
+  width: 50%;
+  text-align: right;
+}
+html[dir=rtl] .template-customers-order .order-table tfoot .text-right {
+  padding-left: 0;
+}
+html[dir=ltr] .template-customers-order .order-table tfoot .text-right {
+  padding-right: 0;
+}
+.order-table.o-order tfoot {
+  display: inline-table;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.address-title {
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.customer-addresses {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: -50px;
+}
+
+.customer-address {
+  width: 50%;
+  margin-bottom: 50px;
+}
+html[dir=rtl] .customer-address:nth-child(odd) {
+  padding-left: 25px;
+}
+html[dir=ltr] .customer-address:nth-child(odd) {
+  padding-right: 25px;
+}
+html[dir=rtl] .customer-address:nth-child(even) {
+  padding-right: 25px;
+}
+html[dir=ltr] .customer-address:nth-child(even) {
+  padding-left: 25px;
+}
+
+
+
+/*custome*/
+
+
+input{
+  border: 1px solid rgba(var(--color-body-txt), 0.14);
+  height: 40px;
+}
+
+.body-text-sm{
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 108%;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  font-style: normal;
+
+}
+.button{
+    text-transform: uppercase!important; 
+    height: 40px !important;
+    letter-spacing: 0.56px;
+    justify-content: center !important;
+  
+    }
+
+#recover_password h3{
+  margin-bottom: 80px
+}
+
+.subtitle{
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 108%;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+}
+
+@media screen and (min-width: 1023px){
+.customer-address {
+    width: 100%;
+    padding: 0 230px;   /*custome*/
+    margin: 0px auto;   /*custome*/
+    flex: 1;  
+}}
+
+
+#open_address_new{
+   text-transform: uppercase!important; 
+    height: 40px !important;
+    letter-spacing: 0.56px;
+    justify-content: center !important;
+    display:flex;
+  margin-top:30px;
+  align-items:center;
+  max-width: 220px;
+  max-width: 660px;
+  margin-bottom: 20px;
+}
+
+@media screen and  (min-width: 1023px){
+.simple-form {
+    width: 100%;
+    padding: 0 200px!important;  
+    margin: 0px auto!important;   
+    flex: 1;  
+}}
+
+
+
+  
+
+.page-start{
+margin-bottom:calc(var(--vertical-padding-base) * 0.5);
+padding-inline: var(--horizontal-padding);
+}
+
+
+@media screen and (min-width: 1023px){
+.acount{
+     width: 100%!important; 
+    padding: 0 230px!important;  
+    margin: 0px auto!important;   
+    flex: 1;  
+}}
+
+.transparent{
+  border-radius: 2px;
+  border: 1px solid #827C77;
+}
+
+.page-title .button{
+  font-size: 10px
+}
+
+.button {
+    text-align: center;
+    text-decoration: none;
+ }
+a#customer_login_link.button-login{
+    vertical-align: middle;
+
+}
+
+
+
+
+.button-login { 
+  display: inline-flex; /* Use inline-flex to allow vertical alignment */
+  align-items: center; /* Align items vertically (along the cross-axis) */
+  justify-content: center; /* Align items horizontally (along the main axis) */
+  width: 100%;
+  line-height: 108%;
+  border: 1px solid #827C77;
+  min-width: 200px!important;
+  
+  border-radius: 2px;
+  text-align: center;
+  text-decoration: none;
+  height: 40px!important;
+  letter-spacing: .56px;
+  outline: none !important;
+  padding: 0 25px;
+  vertical-align: middle;
+}
+
+
+.account{
+    max-width: 660px;
+    min-width:220px;
+    margin: 0px auto!important;   
+   
+}
+/*reset pasword*/
+.flexi {
+  flex-direction: column!important;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+ 
+ }
+.cancel-btn{
+  margin:auto;
+  text-transform: uppercase;
+  font-size: 10px;
+  margin-top:24px;
+}
+
+.button.logout{
+  padding-left:0px;
+}
+.account.flexi{
+   align-items: stretch;
+}

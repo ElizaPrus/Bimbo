@@ -1,0 +1,67 @@
+<nav class="sidebar__menu sidebar-menu-element sidebar--{{ type }}">
+  <ul class="sidebar__menu-list">
+    {% for link in menu.links %}
+      <li class="{% if link.links.size > 0 %} has-submenu {% endif %}">
+        <a href="{{ link.url }}" class="sidebar__menu-link{% if link.active or link.child_active %} selected {% endif %}" data-type="{{ type }}">
+          <span class="sidebar__menu-link-title">{{ link.title | escape }}</span>
+        </a>
+        {% if link.links.size > 0 %}
+          <ul class="sidebar__submenu">
+            {% for childlink in link.links %}
+              <li class="{% if childlink.links.size > 0 %} has-submenu {% endif %}  sidebar__submenu-list">
+                <a href="{{ childlink.url }}" class="sidebar__submenu-link{% if childlink.active or childlink.child_active %} selected {% endif %}">
+                  <span class="sidebar__submenu-link-title">{{ childlink.title | escape }}</span>
+                </a>
+                {% if childlink.links.size > 0 %}
+                  <ul class="sidebar__submenu secondary">
+                    {% for subchildlink in childlink.links %}
+                      <li>
+                        <a href="{{ subchildlink.url }}" class="sidebar__submenu-link{% if subchildlink.active %} selected {% endif %}">
+                          <span class="sidebar__submenu-link-title">{{ subchildlink.title | escape }}</span>
+                        </a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
+
+<script>
+  // Add JavaScript to handle the click event and open both the link and the submenu simultaneously
+  const sidebarMenuLinks = document.querySelectorAll('.sidebar__menu-link');
+  sidebarMenuLinks.forEach((link) => {
+    let clickedOnce = false;
+
+    link.addEventListener('click', function (event) {
+      if (!clickedOnce) {
+        clickedOnce = true;
+        setTimeout(() => {
+          clickedOnce = false;
+        }, 9000); // Adjust the timeout value to set the delay for opening the submenu
+      } else {
+        return;
+      }
+
+      const parentListItem = link.parentNode;
+      const submenu = parentListItem.querySelector('.sidebar__submenu');
+      if (submenu) {
+        event.preventDefault();
+        closeAllSubmenus();
+        parentListItem.classList.add('open');
+      }
+    });
+  });
+
+  function closeAllSubmenus() {
+    const openSubmenus = document.querySelectorAll('.has-submenu.open');
+    openSubmenus.forEach((submenu) => {
+      submenu.classList.remove('open');
+    });
+  }
+</script>

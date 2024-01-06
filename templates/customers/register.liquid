@@ -1,0 +1,47 @@
+<div class="page-content">
+
+	<div class="centered-section-content">
+
+		<div>
+
+			{%- render 'breadcrumb' -%}
+			<h3 class="" style="margin-bottom:80px; margin-top:44px">{{ 'customers.register_page.title' | t }}</h3>
+
+			{% form 'create_customer', class: 'simple-form' %}
+
+				{% render 'form-errors', form: form %}
+
+				<div class="simple-form-field">
+        					<label for="first_name"> {{ 'customers.register_page.form.first_name_label' | t }}</label><br><br>
+							<input type="text" value="" name="customer[first_name]" id="first_name"  {% if form.errors contains "first_name" %} class="error"{% endif %} autocapitalize="words" autofocus>
+						</div>
+                  <div class="simple-form-field">
+							<label for="last_name">{{ 'customers.register_page.form.last_name_label' | t }}</label><br><br>
+							<input type="text" value="" name="customer[last_name]" id="last_name"  {% if form.errors contains "last_name" %} class="error"{% endif %} autocapitalize="words">
+						</div>
+				
+
+				<div class="simple-form-field">
+					<label for="email" >{{ 'customers.register_page.form.email_label' | t }}</label><br><br>
+					<input type="email" value="" name="customer[email]" id="email"  {% if form.errors contains "email" %} class="error"{% endif %} autocorrect="off" autocapitalize="off">
+				</div>
+
+				<div class="simple-form-field">
+					<label for="password" >{{ 'customers.register_page.form.password_label' | t }}</label><br><br>
+					<input type="password" value="" name="customer[password]" id="create_password"  {% if form.errors contains "password" %} class="error"{% endif %}>
+				</div>
+
+				<div class="login-actions">
+					<input class="button button--solid button--wide" type="submit" value="{{ 'customers.register_page.form.submit_button' | t }}">
+				<br>
+
+                    <span><strong class="button button-login">{{ 'customers.login_page.form_login_button' | t |  customer_login_link }}</strong></span>
+                </div>
+
+                              			
+
+		{% endform %}
+</div>
+	</div>
+
+</div>

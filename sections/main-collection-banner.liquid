@@ -1,0 +1,80 @@
+<div class="page-content">
+  <div class="compact-header">
+    {%- render 'breadcrumb' -%}
+  </div>
+
+  <div class="collection-header {% if section.settings.show_collection_image and collection.image %} has-image {% endif %}" data-handle="{{ collection.handle }}">
+    <div class="compact-header-container">
+      <h1 class="collection-header__title h0">{{ collection.title | escape }}</h1>
+      {%- if section.settings.show_collection_description and collection.description != blank -%}
+      <div class="collection-header__description rte">{{ collection.description }}</div>
+      {%- endif -%}
+    </div>
+
+    {%- if section.settings.show_collection_image and collection.image -%}
+    <div class="collection-image-container">
+      <img src="{{ collection.image.src | img_url: 'master' }}" alt="{{ collection.title }}" class="collection-header__image">
+    </div>
+    {%- endif -%}
+
+    {%- unless collection.handle == 'vendors' -%}
+    {%- if section.settings.color_text != 'rgba(0,0,0,0)' -%}
+    {% style %}
+    .collection-header,
+    .collection-header a {
+      color: {{ section.settings.color_text }};
+    }
+    {% endstyle %}
+    {%- endif -%}
+
+    {%- if section.settings.color_bg != 'rgba(0,0,0,0)' -%}
+    {% style %}
+    .collection-header__background:before {
+      background-color: {{ section.settings.color_bg }};
+    }
+    {% endstyle %}
+    {%- endif -%}
+    {%- endunless -%}
+  </div>
+</div>
+
+
+
+
+{% schema %}
+{
+  "name": "t:sections.main-collection-banner.name",
+  "class": "main-collection-banner",
+  "settings": [
+    {
+      "type": "paragraph",
+      "content": "t:sections.main-collection-banner.settings.paragraph.content"
+    },
+    {
+      "id": "show_collection_description",
+      "type": "checkbox",
+      "default": false,
+      "label": "t:sections.main-collection-banner.settings.show_collection_description.label"
+    },
+    {
+      "id": "show_collection_image",
+      "type": "checkbox",
+      "default": false,
+      "label": "t:sections.main-collection-banner.settings.show_collection_image.label",
+      "info": "t:sections.main-collection-banner.settings.show_collection_image.info"
+    },
+    {
+      "type": "color",
+      "id": "color_text",
+      "label": "t:sections.custom-colors.text.label",
+      "default": "rgba(0,0,0,0)"
+    },
+    {
+      "type": "color",
+      "id": "color_bg",
+      "label": "t:sections.custom-colors.overlay.label",
+      "default": "rgba(0,0,0,0)"
+    }
+  ]
+}
+{% endschema %}
