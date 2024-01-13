@@ -1,1 +1,420 @@
-{"sections":{"main":{"type":"main-list-collections","custom_css":[],"settings":{"layout":"layout-halves","alignment":"horizontal-left vertical-bottom","color_text":"rgba(0,0,0,0)","color_bg":"rgba(0,0,0,0)","display_type":"selected","sort":"alphabetical"}},"6fca2b91-a70d-49d3-b399-559303309789":{"type":"image","custom_css":[".lazy-image {margin-left: var(--horizontal-padding); margin-right: var(--horizontal-padding);}","img {border-radius: 4px;}"],"settings":{"image":"shopify:\/\/shop_images\/Desktop_banner_3.jpg","mobile_image":"shopify:\/\/shop_images\/Desktop_banner_10_b140181f-0b3b-41ea-9803-ad67f6a60294.jpg","link":"","open_in_new_window":false,"gutter_enabled":false}},"60efb7da-a7a4-4bd4-9647-8b50ee4f3b08":{"type":"gallery","blocks":{"template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/div_106181eb-74d9-4edb-96f0-522162863305.jpg","caption":"","featured":true,"link":"https:\/\/www.bimbocasa.com\/collections\/safari","open_in_new_window":false}},"template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame9417.jpg","caption":"GORILLA LIBRARY","featured":false,"link":"shopify:\/\/products\/silverback-gorilla-library","open_in_new_window":false}},"template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Tiger1rec_92c57b85-b87b-47ff-8c84-fe1e1b968a1e.jpg","caption":"TIGER RUG","featured":false,"link":"shopify:\/\/products\/cheetah-rug","open_in_new_window":false}},"template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-3":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Cheetahproductrec.png","caption":"CHEETAH RUG","featured":false,"link":"shopify:\/\/products\/cheetah-rug","open_in_new_window":false}},"template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-4":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame_9226_1.jpg","caption":"GIRAFFE LIBRARY","featured":false,"link":"shopify:\/\/products\/giraffe-library","open_in_new_window":false}}},"block_order":["template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-0","template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-1","template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-2","template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-3","template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-4"],"custom_css":["img {border-radius: 4px;}",".gallery[data-inner-gutter] {margin-bottom: 0px; padding-bottom: 0px;}"],"settings":{"gallery_aspect":"0.83333","style_mobile":false,"slider_height":"75vh","lightbox":false,"gutter_enabled":true}},"a1043ca2-966f-472c-9bda-51bd3f25fb17":{"type":"gallery","blocks":{"template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/div_57cbe5c2-21a0-450d-a130-4093f4edc07d.jpg","caption":"","featured":true,"link":"shopify:\/\/collections\/the-explorer","open_in_new_window":false}},"template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Polarbearrec.jpg","caption":"","featured":false,"link":"shopify:\/\/products\/polar-bear-rug","open_in_new_window":false}},"template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame9152.jpg","caption":"","featured":false,"link":"shopify:\/\/products\/hopscotch-rug","open_in_new_window":false}},"template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-3":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame9531_1a6026ca-d892-426d-bde8-878a6edba466.jpg","caption":"Lacquer Niche Library","featured":false,"link":"shopify:\/\/products\/lacquer-niche-library-with-led","open_in_new_window":false}},"template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-4":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/worldmapproductrec.jpg","caption":"","featured":false,"link":"shopify:\/\/products\/world-map-rug","open_in_new_window":false}}},"block_order":["template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-0","template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-1","template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-2","template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-3","template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-4"],"custom_css":["img {border-radius: 4px;}",".gallery[data-inner-gutter] {margin-bottom: calc(var(--grid-gutter) \/ 2);}"],"settings":{"gallery_aspect":"0.83333","style_mobile":false,"slider_height":"50vh","lightbox":false,"gutter_enabled":true}},"5ad7015f-35c7-4759-afdc-6396475ff60a":{"type":"image","custom_css":[".lazy-image {margin-left: var(--horizontal-padding); margin-right: var(--horizontal-padding); border-radius: 4px;}","img {border-radius: 4px;}"],"settings":{"image":"shopify:\/\/shop_images\/Desktop_banner_7.jpg","mobile_image":"shopify:\/\/shop_images\/Desktop_banner_9_2b3a01bb-22b2-44f1-8be9-5560f7683cca.jpg","link":"","open_in_new_window":false,"gutter_enabled":false}},"bff59972-1f24-45c7-9f92-b0542113c9b5":{"type":"gallery","blocks":{"template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/div-1_966be38e-ec3a-44ea-846a-4a449c41e90c.jpg","caption":"","featured":true,"link":"shopify:\/\/collections\/fish-dance","open_in_new_window":false}},"template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/canopyrec_655bde95-4c95-4521-933c-f005bc3b3297.jpg","caption":"Canopy","featured":false,"link":"shopify:\/\/products\/canopy","open_in_new_window":false}},"template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame9469.jpg","caption":"CUSHION","featured":false,"link":"shopify:\/\/products\/cushion","open_in_new_window":false}},"template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-3":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame9467.jpg","caption":"tote","featured":false,"link":"shopify:\/\/products\/tote-bag","open_in_new_window":false}},"template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-4":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame9470.jpg","caption":"MUSLIN SWADDLE","featured":false,"link":"shopify:\/\/products\/muslin-fish-dance","open_in_new_window":false}}},"block_order":["template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-0","template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-1","template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-2","template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-3","template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-4"],"custom_css":["img {border-radius: 4px;}",".gallery[data-inner-gutter] {margin-bottom: 0px; padding-bottom: 0px;}"],"settings":{"gallery_aspect":"0.83333","style_mobile":false,"slider_height":"75vh","lightbox":false,"gutter_enabled":true}},"20603c21-f18b-454f-a20d-faf6ffcbfe6b":{"type":"gallery","blocks":{"template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/div-2_9a0c6dda-8f41-4d19-8264-7274f9e630a1.jpg","caption":"","featured":true,"link":"shopify:\/\/collections\/falling-leave","open_in_new_window":false}},"template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Canopyrec.jpg","caption":"canopy","featured":false,"link":"shopify:\/\/products\/canopy-falling-leave","open_in_new_window":false}},"template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Cushionrec.jpg","caption":"CUSHION","featured":false,"link":"shopify:\/\/products\/cushion-spring-blossom","open_in_new_window":false}},"template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-3":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame9451.jpg","caption":"tote","featured":false,"link":"shopify:\/\/products\/tote-bag-spring-blossom","open_in_new_window":false}},"template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-4":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame9454.jpg","caption":"muslin swaddle","featured":false,"link":"shopify:\/\/products\/muslin-spring-blossom","open_in_new_window":false}}},"block_order":["template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-0","template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-1","template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-2","template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-3","template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-4"],"custom_css":["img {border-radius: 4px;}",".gallery[data-inner-gutter] {margin-bottom: 0px; padding-bottom: 0px;}"],"settings":{"gallery_aspect":"0.83333","style_mobile":false,"slider_height":"75vh","lightbox":false,"gutter_enabled":true}},"12e65b90-3aae-4bed-95fa-68fb86c3871b":{"type":"gallery","blocks":{"template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/div-3_d9daceb0-918d-40da-ae44-a6ea6f935599.jpg","caption":"","featured":true,"link":"shopify:\/\/collections\/spring-sprout","open_in_new_window":false}},"template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame_9850.jpg","caption":"","featured":false,"link":"shopify:\/\/products\/conopy-spring-sprout","open_in_new_window":false}},"template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-4":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame9485_0e6d07ed-74ba-4012-b5f5-9acba63bade0.jpg","caption":"","featured":false,"link":"shopify:\/\/products\/cushion-spring-sprout","open_in_new_window":false}},"template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-5":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame_9850_1.jpg","caption":"","featured":false,"link":"shopify:\/\/products\/tote-bag-spring-sprout","open_in_new_window":false}},"template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-3":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Frame_9851.jpg","caption":"","featured":false,"link":"shopify:\/\/products\/muslin-spring-sprout","open_in_new_window":false}}},"block_order":["template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-1","template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-2","template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-4","template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-5","template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-3"],"custom_css":["img {border-radius: 4px;}"],"settings":{"gallery_aspect":"0.83333","style_mobile":false,"slider_height":"50vh","lightbox":false,"gutter_enabled":true}}},"order":["main","6fca2b91-a70d-49d3-b399-559303309789","60efb7da-a7a4-4bd4-9647-8b50ee4f3b08","a1043ca2-966f-472c-9bda-51bd3f25fb17","5ad7015f-35c7-4759-afdc-6396475ff60a","bff59972-1f24-45c7-9f92-b0542113c9b5","20603c21-f18b-454f-a20d-faf6ffcbfe6b","12e65b90-3aae-4bed-95fa-68fb86c3871b"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "layout": "layout-halves",
+        "alignment": "horizontal-left vertical-bottom",
+        "color_text": "rgba(0,0,0,0)",
+        "color_bg": "rgba(0,0,0,0)",
+        "display_type": "selected",
+        "sort": "alphabetical"
+      }
+    },
+    "6fca2b91-a70d-49d3-b399-559303309789": {
+      "type": "image",
+      "custom_css": [
+        ".lazy-image {margin-left: var(--horizontal-padding); margin-right: var(--horizontal-padding);}",
+        "img {border-radius: 4px;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Desktop_banner_3.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Desktop_banner_10_b140181f-0b3b-41ea-9803-ad67f6a60294.jpg",
+        "link": "",
+        "open_in_new_window": false,
+        "gutter_enabled": false
+      }
+    },
+    "60efb7da-a7a4-4bd4-9647-8b50ee4f3b08": {
+      "type": "gallery",
+      "blocks": {
+        "template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/div_106181eb-74d9-4edb-96f0-522162863305.jpg",
+            "caption": "",
+            "featured": true,
+            "link": "https:\/\/www.bimbocasa.com\/collections\/safari",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame9417.jpg",
+            "caption": "GORILLA LIBRARY",
+            "featured": false,
+            "link": "shopify:\/\/products\/silverback-gorilla-library",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tiger1rec_92c57b85-b87b-47ff-8c84-fe1e1b968a1e.jpg",
+            "caption": "TIGER RUG",
+            "featured": false,
+            "link": "shopify:\/\/products\/cheetah-rug",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cheetahproductrec.png",
+            "caption": "CHEETAH RUG",
+            "featured": false,
+            "link": "shopify:\/\/products\/cheetah-rug",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_9226_1.jpg",
+            "caption": "GIRAFFE LIBRARY",
+            "featured": false,
+            "link": "shopify:\/\/products\/giraffe-library",
+            "open_in_new_window": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-0",
+        "template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-1",
+        "template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-2",
+        "template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-3",
+        "template--18868611252517__60efb7da-a7a4-4bd4-9647-8b50ee4f3b08-16846176694c65083d-4"
+      ],
+      "custom_css": [
+        "img {border-radius: 4px;}",
+        ".gallery[data-inner-gutter] {margin-bottom: 0px; padding-bottom: 0px;}"
+      ],
+      "settings": {
+        "gallery_aspect": "0.83333",
+        "style_mobile": false,
+        "slider_height": "75vh",
+        "lightbox": false,
+        "gutter_enabled": true
+      }
+    },
+    "a1043ca2-966f-472c-9bda-51bd3f25fb17": {
+      "type": "gallery",
+      "blocks": {
+        "template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/div_57cbe5c2-21a0-450d-a130-4093f4edc07d.jpg",
+            "caption": "",
+            "featured": true,
+            "link": "shopify:\/\/collections\/the-explorer",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Polarbearrec.jpg",
+            "caption": "",
+            "featured": false,
+            "link": "shopify:\/\/products\/polar-bear-rug",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame9152.jpg",
+            "caption": "",
+            "featured": false,
+            "link": "shopify:\/\/products\/hopscotch-rug",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame9531_1a6026ca-d892-426d-bde8-878a6edba466.jpg",
+            "caption": "Lacquer Niche Library",
+            "featured": false,
+            "link": "shopify:\/\/products\/lacquer-niche-library-with-led",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/worldmapproductrec.jpg",
+            "caption": "",
+            "featured": false,
+            "link": "shopify:\/\/products\/world-map-rug",
+            "open_in_new_window": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-0",
+        "template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-1",
+        "template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-2",
+        "template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-3",
+        "template--18868611252517__a1043ca2-966f-472c-9bda-51bd3f25fb17-16888487805c4c0e37-4"
+      ],
+      "custom_css": [
+        "img {border-radius: 4px;}",
+        ".gallery[data-inner-gutter] {margin-bottom: calc(var(--grid-gutter) \/ 2);}"
+      ],
+      "settings": {
+        "gallery_aspect": "0.83333",
+        "style_mobile": false,
+        "slider_height": "50vh",
+        "lightbox": false,
+        "gutter_enabled": true
+      }
+    },
+    "5ad7015f-35c7-4759-afdc-6396475ff60a": {
+      "type": "image",
+      "custom_css": [
+        ".lazy-image {margin-left: var(--horizontal-padding); margin-right: var(--horizontal-padding); border-radius: 4px;}",
+        "img {border-radius: 4px;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Desktop_banner_7.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Desktop_banner_9_2b3a01bb-22b2-44f1-8be9-5560f7683cca.jpg",
+        "link": "",
+        "open_in_new_window": false,
+        "gutter_enabled": false
+      }
+    },
+    "bff59972-1f24-45c7-9f92-b0542113c9b5": {
+      "type": "gallery",
+      "blocks": {
+        "template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/div-1_966be38e-ec3a-44ea-846a-4a449c41e90c.jpg",
+            "caption": "",
+            "featured": true,
+            "link": "shopify:\/\/collections\/fish-dance",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/canopyrec_655bde95-4c95-4521-933c-f005bc3b3297.jpg",
+            "caption": "Canopy",
+            "featured": false,
+            "link": "shopify:\/\/products\/canopy",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame9469.jpg",
+            "caption": "CUSHION",
+            "featured": false,
+            "link": "shopify:\/\/products\/cushion",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame9467.jpg",
+            "caption": "tote",
+            "featured": false,
+            "link": "shopify:\/\/products\/tote-bag",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame9470.jpg",
+            "caption": "MUSLIN SWADDLE",
+            "featured": false,
+            "link": "shopify:\/\/products\/muslin-fish-dance",
+            "open_in_new_window": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-0",
+        "template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-1",
+        "template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-2",
+        "template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-3",
+        "template--18868611252517__bff59972-1f24-45c7-9f92-b0542113c9b5-168651315503d9703e-4"
+      ],
+      "custom_css": [
+        "img {border-radius: 4px;}",
+        ".gallery[data-inner-gutter] {margin-bottom: 0px; padding-bottom: 0px;}"
+      ],
+      "settings": {
+        "gallery_aspect": "0.83333",
+        "style_mobile": false,
+        "slider_height": "75vh",
+        "lightbox": false,
+        "gutter_enabled": true
+      }
+    },
+    "20603c21-f18b-454f-a20d-faf6ffcbfe6b": {
+      "type": "gallery",
+      "blocks": {
+        "template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/div-2_9a0c6dda-8f41-4d19-8264-7274f9e630a1.jpg",
+            "caption": "",
+            "featured": true,
+            "link": "shopify:\/\/collections\/pink-blossom",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Canopyrec.jpg",
+            "caption": "canopy",
+            "featured": false,
+            "link": "shopify:\/\/products\/canopy-falling-leave",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cushionrec.jpg",
+            "caption": "CUSHION",
+            "featured": false,
+            "link": "shopify:\/\/products\/cushion-spring-blossom",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame9451.jpg",
+            "caption": "tote",
+            "featured": false,
+            "link": "shopify:\/\/products\/tote-bag-spring-blossom",
+            "open_in_new_window": false
+          }
+        },
+        "template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame9454.jpg",
+            "caption": "muslin swaddle",
+            "featured": false,
+            "link": "shopify:\/\/products\/muslin-spring-blossom",
+            "open_in_new_window": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-0",
+        "template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-1",
+        "template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-2",
+        "template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-3",
+        "template--18868611252517__20603c21-f18b-454f-a20d-faf6ffcbfe6b-168651315503d9703e-4"
+      ],
+      "custom_css": [
+        "img {border-radius: 4px;}",
+        ".gallery[data-inner-gutter] {margin-bottom: 0px; padding-bottom: 0px;}"
+      ],
+      "settings": {
+        "gallery_aspect": "0.83333",
+        "style_mobile": false,
+        "slider_height": "75vh",
+        "lightbox": false,
+        "gutter_enabled": true
+      }
+    },
+    "12e65b90-3aae-4bed-95fa-68fb86c3871b": {
+      "type": "gallery",
+      "blocks": {
+        "template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/div-3_d9daceb0-918d-40da-ae44-a6ea6f935599.jpg",
+            "caption": "",
+            "featured": true,
+            "link": "shopify:\/\/collections\/spring-sprout",
+            "open_in_new_window": false
+          }
+        },
+        "template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_9850.jpg",
+            "caption": "",
+            "featured": false,
+            "link": "shopify:\/\/products\/conopy-spring-sprout",
+            "open_in_new_window": false
+          }
+        },
+        "template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame9485_0e6d07ed-74ba-4012-b5f5-9acba63bade0.jpg",
+            "caption": "",
+            "featured": false,
+            "link": "shopify:\/\/products\/cushion-spring-sprout",
+            "open_in_new_window": false
+          }
+        },
+        "template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_9850_1.jpg",
+            "caption": "",
+            "featured": false,
+            "link": "shopify:\/\/products\/tote-bag-spring-sprout",
+            "open_in_new_window": false
+          }
+        },
+        "template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_9851.jpg",
+            "caption": "",
+            "featured": false,
+            "link": "shopify:\/\/products\/muslin-spring-sprout",
+            "open_in_new_window": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-1",
+        "template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-2",
+        "template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-4",
+        "template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-5",
+        "template--20690005098789__12e65b90-3aae-4bed-95fa-68fb86c3871b-image-3"
+      ],
+      "custom_css": [
+        "img {border-radius: 4px;}"
+      ],
+      "settings": {
+        "gallery_aspect": "0.83333",
+        "style_mobile": false,
+        "slider_height": "50vh",
+        "lightbox": false,
+        "gutter_enabled": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6fca2b91-a70d-49d3-b399-559303309789",
+    "60efb7da-a7a4-4bd4-9647-8b50ee4f3b08",
+    "a1043ca2-966f-472c-9bda-51bd3f25fb17",
+    "5ad7015f-35c7-4759-afdc-6396475ff60a",
+    "bff59972-1f24-45c7-9f92-b0542113c9b5",
+    "20603c21-f18b-454f-a20d-faf6ffcbfe6b",
+    "12e65b90-3aae-4bed-95fa-68fb86c3871b"
+  ]
+}
